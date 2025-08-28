@@ -18,10 +18,5 @@ def index():
             message = "The text is likely written by Human"  
     return render_template('main.html',params = message)
 
-    git config user.name "Ujjwal247"
-git config user.email "ujjwalsharma2477@gmail.com
-"
-
-
 if __name__ == '__main__':
     app.run(debug=True)
