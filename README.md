@@ -4,4 +4,4 @@ This project implements a custom Bidirectional LSTM (Long Short-Term Memory) mod
 
 The model architecture is built from scratch with custom LSTM layers, allowing fine-tuned control over sequence processing and contextual understanding.
 
-A live demo of the project is available here:
+A live demo of the project is available here: https://plagicheckbyujjwal.streamlit.app/
